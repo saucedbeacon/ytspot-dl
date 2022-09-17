@@ -4,3 +4,4 @@ pyTelegramBotAPI
 spotify_dlx
 librespot
 wget
+integv
