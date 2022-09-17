@@ -1,0 +1,4 @@
+aiohttp
+yt_dlp
+pyTelegramBotAPI
+spotify_dlx
